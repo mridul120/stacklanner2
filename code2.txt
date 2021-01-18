@@ -2,4 +2,12 @@ hello that is the second part assignment of stacklanner
 
 editinng time 2
 
+<<<<<<< HEAD
 int add(int a,int b);// use  for add two parameter
+=======
+int add(int a,int b);// use  for add two parameter
+
+
+
+int subtracktion(int a,int b);// use  for subtracktion two parameter
+>>>>>>> branch_two
